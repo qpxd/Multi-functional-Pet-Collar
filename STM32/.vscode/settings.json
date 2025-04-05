@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "gp2y101.h": "c",
+        "my_interface.h": "c",
+        "gps.h": "c",
+        "esp8266.h": "c",
+        "core_cm3.h": "c",
+        "freertosconfig.h": "c",
+        "onchip_conf.h": "c",
+        "driver_conf.h": "c",
+        "moudle_test.h": "c",
+        "limits": "c",
+        "inv_mpu_dmp_motion_driver.h": "c",
+        "inv_mpu.h": "c",
+        "hash.h": "c",
+        "my_flash.h": "c",
+        "chassis.h": "c",
+        "type_traits": "c"
+    }
+}

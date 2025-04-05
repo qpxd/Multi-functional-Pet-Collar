@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">电子宠物项圈</string>
+    <string name="serverip">服务器IP地址</string>
+    <string name="portnum">服务器端口号</string>
+    <string name="Connecttotheserver">连接服务器</string>
+</resources>

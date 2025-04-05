@@ -1,0 +1,6 @@
+
+设置编码格式为 GB2312， 参考以下链接
+https://jingyan.baidu.com/article/f96699bbca5ba1c84e3c1bcf.html
+
+
+设置好后再打开工程文件，如果已经打开，设置了编码后， 最好重新解压一次再打开
