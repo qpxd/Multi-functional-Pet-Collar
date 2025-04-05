@@ -110,10 +110,8 @@ python scripts/hil_test.py --device /dev/ttyACM0
 本项目采用 [MIT License](LICENSE)，商业使用需联系授权。
 
 ## 📞 技术支持
-- 邮箱: support@smartpet.tech
-- 社区论坛: [https://forum.smartpet.tech](https://forum.smartpet.tech)
-- 紧急联系: +86 400-900-5757
-```
+- 邮箱: qpxdhhh@126.com
+  ```
 
 **优化提示**：
 1. 在`docs/`目录中添加：
